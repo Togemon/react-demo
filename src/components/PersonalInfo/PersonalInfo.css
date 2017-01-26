@@ -1,0 +1,10 @@
+.info ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 5em;
+}
+
+.info ul li {
+  padding: 0.2em;
+  color: #333;
+}
