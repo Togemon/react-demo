@@ -6,9 +6,9 @@ import ClockList from './components/ClockList/ClockList'
 
 const myInfo = {
   name: "Tuomas Juopperi",
-  address: "Jämeräntaival 11 I 178",
-  email: "tuomas.juopperi@aalto.fi",
-  phone: "050-356 3546"
+  email: "tuomas{dot}juopperi{at}aalto{dot}fi",
+  country: "Finland",
+  school: "Aalto University"
 };
 
 const worldClocks = [
